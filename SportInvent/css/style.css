@@ -1,0 +1,25 @@
+.bg-purple {
+    background-color: #6f42c1;
+}
+
+.text-purple {
+    color: #6f42c1;
+}
+
+.btn-purple {
+    background-color: #6f42c1;
+    color: white;
+}
+
+.btn-purple:hover,
+.btn-purple:focus {
+    background-color: #5a389e;
+    border-color: #5a389e;
+    color: white;
+}
+
+.hero {
+    background: linear-gradient(rgba(138, 99, 210, 0.8), rgba(138, 99, 210, 0.8)), url('/img/bg.png');
+    background-size: cover;
+    background-position: center;
+}
